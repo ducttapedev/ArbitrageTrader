@@ -1,0 +1,8 @@
+tickersUrl=https://data.bter.com/api/1/tickers
+depthUrlPrefix=https://data.bter.com/api/1/depth/
+urlPrefix=https://bter.com/api/1/private/
+key=
+secret=
+btc=0.001
+ltc=0.001
+cny=5

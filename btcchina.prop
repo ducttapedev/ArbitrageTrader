@@ -1,0 +1,5 @@
+depthUrlPrefix=https://data.btcchina.com/data/orderbook?market=
+access_key=
+secret_key=
+ltc = 0.001
+btc = 0.0001

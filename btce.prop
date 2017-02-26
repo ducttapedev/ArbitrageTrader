@@ -1,0 +1,12 @@
+pairsUrl=https://support.btc-e.com/index.php?/Knowledgebase/Article/View/28/4/public-api
+getPrefix=https://btc-e.com/api/2/
+getUrlPrefix=https://btc-e.com/api/2/
+postPrefix=https://btc-e.com/tapi/
+postUrlPrefix=https://btc-e.com/tapi/
+feeURLSuffix=/fee
+tickerURLSuffix=/ticker
+depthURLSuffix=/depth
+tradeURLSuffix=/trades
+key=
+secret=
+ltc = 0.1

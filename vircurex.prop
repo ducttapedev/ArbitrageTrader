@@ -1,0 +1,16 @@
+tradingFeeUrl=https://api.vircurex.com/api/get_trading_fee.json
+tickersUrl=https://api.vircurex.com/api/get_info_for_currency.json
+depthUrl=https://api.vircurex.com/api/orderbook_alt.json
+urlPrefix=https://api.vircurex.com/api/
+account=
+apiURL=https://api.vircurex.com/api/
+get_balance=
+get_balances=
+create_order=
+create_released_order=
+release_order=
+delete_order=
+read_order=
+read_orderexecutions=
+read_orders=
+btc=0.0001

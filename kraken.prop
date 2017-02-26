@@ -1,0 +1,6 @@
+pairsUrl=https://api.kraken.com/0/public/AssetPairs
+depthUrlPrefix=https://api.kraken.com/0/public/Depth?pair=
+postUrl=https://api.kraken.com/0/private/
+key=
+secret=
+btc=0.01
